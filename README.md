@@ -1,2 +1,2 @@
 # hello-world
-prueba de Reciclanet. Repo de readme
+prueba de Reciclanet. Repo readme
